@@ -48,7 +48,7 @@
 <img src="https://github.com/Wesley273/IntelligentCalculator/blob/e68a148e81d48ace66d9be19b57eb12cee7b68a6/img/13.jpg" width="20%">
 </div>
 
-# Alpha Mode——获取任意你想要的
+# Alpha Mode——Get Whatever You Want
 
 <div style="align: center">
 <img src="https://github.com/Wesley273/IntelligentCalculator/blob/e68a148e81d48ace66d9be19b57eb12cee7b68a6/img/14.jpg" width="20%">
