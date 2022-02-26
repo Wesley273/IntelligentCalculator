@@ -1,7 +1,7 @@
 # 项目思路
 
 <div style="align: center">
-<img src="https://github.com/Wesley273/IntelligentCalculator/blob/f001611eac173cda5fd62b30524c37f5421477b8/img/16.jpg" width="50%">
+<img src="https://github.com/Wesley273/IntelligentCalculator/blob/f001611eac173cda5fd62b30524c37f5421477b8/img/16.jpg" width="65%">
 </div>
 
 # 主界面展示
