@@ -17,3 +17,15 @@
 <img src="https://github.com/Wesley273/IntelligentCalculator/blob/5b3bd9325c6443de3a45a213cb83895bcc454e40/img/5.jpg" width="20%">
 <img src="https://github.com/Wesley273/IntelligentCalculator/blob/5b3bd9325c6443de3a45a213cb83895bcc454e40/img/6.jpg" width="20%">
 </div>
+
+# 微积分运算
+## 求导数
+<div style="align: center">
+<img src="https://github.com/Wesley273/IntelligentCalculator/blob/5b3bd9325c6443de3a45a213cb83895bcc454e40/img/8.jpg" width="20%">
+<img src="https://github.com/Wesley273/IntelligentCalculator/blob/5b3bd9325c6443de3a45a213cb83895bcc454e40/img/9.jpg" width="20%">
+</div>
+
+## 求偏导
+<div style="align: center">
+<img src="https://github.com/Wesley273/IntelligentCalculator/blob/5b3bd9325c6443de3a45a213cb83895bcc454e40/img/7.jpg" width="20%">
+</div>
