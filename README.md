@@ -2,6 +2,8 @@
 
 An intelligent calculator based on inverse Polish expression and WolframAlpha API
 
+[Click here to read the detailed instruction](https://github.com/Wesley273/IntelligentCalculator/blob/b80d21f553b7b909c22cae9ec9ad2cced587d06d/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+
 ## 项目思路
 
 <div style="align: center">
