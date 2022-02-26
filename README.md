@@ -18,9 +18,11 @@
 <img src="https://github.com/Wesley273/IntelligentCalculator/blob/5b3bd9325c6443de3a45a213cb83895bcc454e40/img/3.jpg" width="20%">
 </div>
 
+<br/>
 
 - 其他运算
 
+<br/>
 
 <div style="align: center">
 <img src="https://github.com/Wesley273/IntelligentCalculator/blob/5b3bd9325c6443de3a45a213cb83895bcc454e40/img/4.jpg" width="20%">
@@ -36,17 +38,21 @@
 <img src="https://github.com/Wesley273/IntelligentCalculator/blob/d7aae7845146df721899204cd6b2ad822b378e9d/img/9.jpg" width="20%">
 </div>
 
+<br/>
 
 - 求偏导
 
+<br/>
 
 <div style="align: center">
 <img src="https://github.com/Wesley273/IntelligentCalculator/blob/5b3bd9325c6443de3a45a213cb83895bcc454e40/img/7.jpg" width="20%">
 </div>
 
+<br/>
 
 - 定积分与求极限
 
+<br/>
 
 <div style="align: center">
 <img src="https://github.com/Wesley273/IntelligentCalculator/blob/e68a148e81d48ace66d9be19b57eb12cee7b68a6/img/10.jpg" width="20%">
